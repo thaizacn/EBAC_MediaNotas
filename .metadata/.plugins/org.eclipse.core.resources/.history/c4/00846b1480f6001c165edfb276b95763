@@ -22,14 +22,6 @@ public class CalculoDeMedias {
 		
 		System.out.println("Sua média final é: " + mediaFinal);
 
-		if(mediaFinal >= 7) {
-			System.out.println("Parabéns, você foi aprovado!");
-		} else if(mediaFinal >= 5) {
-			System.out.println("Tente novamente, você ficou de recuperação!");
-		} else {
-			System.out.println("Infelizmente, você foi reprovado!");
-		}
 	}
-	
 
 }
